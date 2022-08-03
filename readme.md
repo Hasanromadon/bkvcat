@@ -3,4 +3,4 @@
 1. Aplikasi ini dibuat menggunakan REACT NATIVE + EXPO
 2. Link Publish: [BVKCAT - EXPO GO ANDROID](expo.dev/@hasanromason/bvkcat)
 
-![BVK UI]('./assets/bvk-ui.png')
+![BVK UI](https://github.com/Hasanromadon/bvKcat/blob/main/assets/bvk-ui.png)
